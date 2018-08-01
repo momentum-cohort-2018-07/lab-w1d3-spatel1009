@@ -1,0 +1,53 @@
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-image:url("http://www.flowermuse.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/w/h/white-peonies-1.jpg");
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.plants {
+  width: 750px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.photos{
+  padding-top: 10px;
+  padding-bottom:10px;
+  
+}
+
+span {
+  color: red;
+}
+
+.links {
+  padding-left: 90px;
+  padding-right: 40px;
+}
+
+.lazy {
+  text-align:center;
+}
+
+.mainphoto{
+  padding-bottom: 25px;
+}
+
+a:visited {
+  color:red;
+  font-size:18px;
+}
+
+a:link {
+  color:blue;
+  font-size: 18px;
+}
+
+h1 {
+  text-align:center;
+}
